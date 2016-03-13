@@ -3,4 +3,4 @@ Simple chat written with Play framework (2.5) Java 8 :)
 To run it write in command line "activator run".
 It opens on http://localhost:9000/
 
-Multiple people are able to login to chat and communicate by writing their username and choosing a color.
+Open a lot of tabs, register your alter egos with different names and colors and have fun chatting :)
