@@ -18,8 +18,7 @@ public class ChatRoomController extends Controller {
                         routes.javascript.ChatRoomController.socket())).as("text/javascript");
     }
     
-    @SuppressWarnings("deprecation")
-	public LegacyWebSocket<String> socket() {
+    public LegacyWebSocket<String> socket() {
         return WebSocket.withActor(ChatRoom::props);
     }	
 }
