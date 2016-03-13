@@ -1,4 +1,4 @@
-Simple chat written with Play framework (2.5) Java 8 :)
+Simple chat written with Play framework (2.5) on Java 8 :)
 
 To run it write in command line "activator run".
 It opens on http://localhost:9000/
