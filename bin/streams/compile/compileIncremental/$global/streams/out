@@ -1,0 +1,20 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(C:\Users\Ugne\Documents\Play\activator-dist-1.3.7\SocketsApp\app\models\ChatRoom.java)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set(C:\Users\Ugne\Documents\Play\activator-dist-1.3.7\SocketsApp\app\controllers\CountController.java)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(C:\Users\Ugne\Documents\Play\activator-dist-1.3.7\SocketsApp\app\models\ChatRoom.java, C:\Users\Ugne\Documents\Play\activator-dist-1.3.7\SocketsApp\app\controllers\CountController.java)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(C:\Users\Ugne\Documents\Play\activator-dist-1.3.7\SocketsApp\app\models\ChatRoom.java, C:\Users\Ugne\Documents\Play\activator-dist-1.3.7\SocketsApp\app\controllers\CountController.java)[0m
+[0m[[0minfo[0m] [0mCompiling 2 Java sources to C:\Users\Ugne\Documents\Play\activator-dist-1.3.7\SocketsApp\target\scala-2.11\classes...[0m
+[0m[[0mdebug[0m] [0mAttempting to call com.sun.tools.javac.api.JavacTool@30efc6c8 directly...[0m
+[0m[[31merror[0m] [0mC:\Users\Ugne\Documents\Play\activator-dist-1.3.7\SocketsApp\app\models\ChatRoom.java:5: models.ChatRoom is not abstract and does not override abstract method onReceive(java.lang.Object) in akka.actor.UntypedActor[0m
+[0m[[31merror[0m] [0mpublic class ChatRoom extends UntypedActor {[0m
+[0m[[31merror[0m] [0m(compile:[31mcompileIncremental[0m) javac returned nonzero exit code[0m

@@ -1,0 +1,18 @@
+eclipse with-sorce=true
+eclipse with-source=true
+run
+compile
+eclipse with-source=true
+run
+clean
+compile
+eclipse with-source=true
+run
+clean
+compile
+clean
+compile
+eclipse with-source=true
+run
+compile
+eclipse with-source=true
